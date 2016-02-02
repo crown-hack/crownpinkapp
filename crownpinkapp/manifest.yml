@@ -1,0 +1,6 @@
+---
+applications:
+- name: niro-test-app
+  instances: 1
+  memory: 512M
+  command: node app.js
